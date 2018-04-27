@@ -1,0 +1,31 @@
+/////////////////////////////////////////////////////////////////
+// ProgramName: Program-3
+// Author: Austin Riddle
+// Description:
+// 		This program reads in animals from a text file called
+// animals.txt.  It places the animals into a doubly linked list
+// where the head and tail are connected.  The program will then
+// eliminate a given number of animals from the list using an
+// algorithm to determine the order of who will be eliminated.
+// The algorithm uses a multiplier, which you will also input.
+// The program will only print every 11th eliminated animals.
+// The final printed animal is the winner.
+//
+// The program seems to struggle when too high a number is
+// entered for 'number of times to eliminate'. Recommend 74
+// or lower, with a multiplier of 2.
+// Unfortunately, I have been unable to determine the cause.
+//
+// Course: 1063 Data Structures
+// Semester: Spring 2018
+// Date: 27 04 2018
+/////////////////////////////////////////////////////////////////
+
+First: rabbit
+guinea-fowl
+eel
+woodpecker
+salamander
+Winner: narwhal !!
+
+
