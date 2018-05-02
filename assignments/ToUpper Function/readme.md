@@ -10,3 +10,5 @@ string toupper(string w){
 	return w;
 }
 ```
+
+The main.cpp file in this folder is a simple program that I made to test the function.
