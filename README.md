@@ -1,5 +1,5 @@
 # 1063-DS-Riddle
 
-![alt text](me.jpg?raw=true)
-
-My name is Austin Riddle.  You can email me at aweraa29@gmail.com
+My name is Austin Riddle.  You can email me at aweraa29@gmail.com.  
+  
+This is a repository that I made for my CMPS-1063 homework projects.
